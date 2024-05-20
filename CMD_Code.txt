@@ -1,0 +1,13 @@
+r.GPUSkin.Support16BitBoneIndex 1 
+
+​
+
+r.GPUSkin.UnlimitedBoneInfluences 1
+
+​
+
+r.SkinCache.CompileShaders 1
+
+​
+
+SkeletalMesh.UseExperimentalChunking 1
